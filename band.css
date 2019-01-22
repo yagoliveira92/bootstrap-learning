@@ -6,7 +6,7 @@
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
-  background-color: #fff;
+  /*background-color: #fff;*/
   background-image: url("assets/img/banjo.jpg");
   background-repeat: no-repeat;
   background-position: bottom center;
